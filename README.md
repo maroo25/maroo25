@@ -4,7 +4,6 @@
 
 👀 I’m interested in server and data engineering
 
-🌱 I’m currently learning Java and MySQL
 
 
 <!---
